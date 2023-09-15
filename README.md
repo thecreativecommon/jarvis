@@ -6,4 +6,4 @@ Discord Bot Extraordinaire!
 2. docker build -t tcc-discord-jarvis 
 3. sudo docker run --restart always -d -name tcc-discord-jarvis tcc-discord-jarvis
 
-  Note: use docker rm to get rid of container before starting updated one
+* Note: use docker rm to get rid of container before starting updated one
